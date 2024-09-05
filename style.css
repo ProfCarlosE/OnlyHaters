@@ -1,0 +1,17 @@
+:root{
+    --neutro-principal: #FFFFFF;
+    --neutro-secundario: #000000;
+    --laranja-paleta:#ff4000;
+    --amarelo-verde-paleta:#9acd32;
+    --azul-verde-paleta:#008080;
+}
+
+body {
+    background-color: var(--neutro-principal);
+    color: var(--neutro-secundario)
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
